@@ -1,0 +1,46 @@
+# LangChain Core
+langchain
+langchain-core
+
+# VoyageAI Integration
+langchain-voyageai
+
+# Sarvam Integration
+langchain-sarvam
+ langchain-sarvamcloud
+
+# OpenAI Integration
+langchain-openai
+openai
+
+# Anthropic Integration
+langchain-anthropic
+
+# Google Gemini (PaLM) Integration
+langchain-google-genai
+google-generativeai
+
+# Hugging Face Integration
+langchain-huggingface
+transformers
+huggingface-hub
+
+# Environment Variable Management
+python-dotenv
+
+# Machine Learning Utilities
+numpy
+scikit-learn
+
+# Models
+sentence-transformers
+
+# ui
+streamlit
+
+# structured output
+pydantic
+email-validator
+
+# chains
+grandalf
