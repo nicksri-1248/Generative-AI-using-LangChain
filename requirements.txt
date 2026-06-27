@@ -44,3 +44,12 @@ email-validator
 
 # chains
 grandalf
+
+# PyTorch
+torch
+torchvision
+
+# document loaders
+langchain-community
+pypdf
+bs4
